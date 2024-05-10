@@ -6,3 +6,5 @@ Hello Researchers, this repository is for you to help in further development of 
 
 
 ![r2](https://github.com/codewithkhurshed/SMP-IUB/assets/97898902/69f6df96-bf91-48ba-b518-c0280a4253f1)
+
+![comparisonsmp](https://github.com/codewithkhurshed/SMP-IUB/assets/97898902/2fb8fc7f-a249-482c-a1be-aae26db994e6)
